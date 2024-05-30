@@ -185,3 +185,15 @@ body{
     font-size: 16px;
     border-radius: 8px;
 }
+
+.footer_container{
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+}
+
+.footer_message{
+    color: #e5e7eb;
+}
